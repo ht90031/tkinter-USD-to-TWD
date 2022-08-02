@@ -3,6 +3,7 @@
 美金轉換後的台幣金額：
 """
 # MIT License: Jamie Chuang
+# powenko
 import tkinter as tk                     # 在Python 3.x 匯入該tkinter 函式庫
 
 win = tk.Tk()                            # 建立GUI 應用程式的主視窗
