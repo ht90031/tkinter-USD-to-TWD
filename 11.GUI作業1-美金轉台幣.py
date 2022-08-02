@@ -4,7 +4,7 @@
 """
 # MIT License: Jamie Chuang
 # powenko
-# You XUAN新增圖片、底色～
+# You XUAN新增圖片、底色～～
 import tkinter as tk                     # 在Python 3.x 匯入該tkinter 函式庫
 from PIL import ImageTk, Image
 
